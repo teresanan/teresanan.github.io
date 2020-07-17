@@ -26,6 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Here is a graph I'd love to show. 
+
+![Image of Plot](rating_by_states.png)
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
