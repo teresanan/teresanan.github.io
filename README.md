@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Here is a graph I'd love to show. 
+Glassdoor Company Review Figure - overall rating by states
 
 ![Image of Plot](rating_by_states.png)
 
